@@ -1,6 +1,6 @@
 # Ecommero Mobile
 
-![Project thumbnail](./contributingGuides/Banner.png)
+![Project thumbnail](./guides/Banner.png)
 <br>
 <br/><b>Introducing Ecommero</b>, the comprehensive e-commerce solution that caters to iOS, Android, and Web platforms. With a modern design and full-fledged features, Ecommero provides an easy-to-implement app solution for any e-commerce company.
 
@@ -75,21 +75,21 @@ The version of nodejs should be between 14.0 to 16.0
 
 |                     Ecommero Menu                     |                  Ecommero Categories                  |                    Ecommero Items                     |
 | :---------------------------------------------------: | :---------------------------------------------------: | :---------------------------------------------------: |
-| ![](./contributingGuides/screenshots/customer11.jpeg) | ![](./contributingGuides/screenshots/customer22.jpeg) | ![](./contributingGuides/screenshots/customer33.jpeg) |
+| ![](./guides/screenshots/customer11.jpeg) | ![](./guides/screenshots/customer22.jpeg) | ![](./guides/screenshots/customer33.jpeg) |
 
 |               Ecommero Items Details               |               Ecommero User Account                |                    Track Order                     |
 | :------------------------------------------------: | :------------------------------------------------: | :------------------------------------------------: |
-| ![](./contributingGuides/screenshots/rider11.jpeg) | ![](./contributingGuides/screenshots/rider22.jpeg) | ![](./contributingGuides/screenshots/rider33.jpeg) |
+| ![](./guides/screenshots/rider11.jpeg) | ![](./guides/screenshots/rider22.jpeg) | ![](./guides/screenshots/rider33.jpeg) |
 
 |                 Stats Overview                 |                   User Table                   |                Products Editing                |
 | :--------------------------------------------: | :--------------------------------------------: | :--------------------------------------------: |
-| ![](./contributingGuides/screenshots/eco1.png) | ![](./contributingGuides/screenshots/eco2.png) | ![](./contributingGuides/screenshots/eco3.png) |
+| ![](./guides/screenshots/eco1.png) | ![](./guides/screenshots/eco2.png) | ![](./guides/screenshots/eco3.png) |
 
 ## High Level Architecture
 
-![High Level Architecture](./contributingGuides/screenshots/architecture.png)
+![High Level Architecture](./guides/screenshots/architecture.png)
 
-- User Mobile App communicates with both API Server and [Amplitudes](https://amplitude.com/) analytics dashboard
+- User Mobile App communicates with both API Server and analytics dashboard
 - Web dashboard communicates with only API Server
 
 ### Prerequisites:
@@ -144,37 +144,3 @@ The version of nodejs should be between 14.0 to 16.0
 - [GraphQL](https://graphql.org/)
 - [ExpressJS](https://expressjs.com/)
 - [React Strap](https://reactstrap.github.io/)
-
-## Download
-
-<a href="https://play.google.com/store/apps/details?id=com.ecommero.app">
-  <img alt="Download on Google Play" src="https://play.google.com/intl/en_us/badges/images/badge_new.png" height=43>
-</a>
-<a href="https://apps.apple.com/pk/app/ecommero/id1529112897">
-  <img alt="Download on App Store" src="https://user-images.githubusercontent.com/7317008/43209852-4ca39622-904b-11e8-8ce1-cdc3aee76ae9.png" height=43>
-</a>
-
-[Admin Dashboard](https://loquacious-cocada-464023.netlify.app/)
-
-## Documentation and Product Demo Video:
-
-Find the link for the complete documentation of the Ecommero Solution [here](https://e-commero.gitbook.io/ecommero/).
-
-If you want to see demo video of the product please check out the link over [here](https://www.youtube.com/watch?v=qlp4L-boFMY&t=9s)
-
-## Get the Latest News
-
-- [Facebook](https://www.facebook.com/ninjascodeofficial)
-- [Twitter](https://twitter.com/ninjascode1)
-- [Instagram](https://www.instagram.com/ninjascodeofficial/)
-- [LinkedIn](https://www.linkedin.com/company/14512538)
-
-## Reporting an issue
-
-[Github Issues](https://github.com/Ninjas-Code-official/shopping-cart/issues) are used to track todos, bugs, feature requests, and more.
-
-Also check our [discord community](https://discord.gg/ef6PT6ZH). We'd like to help.
-
-## Contributing
-
-Are you a dev and would like to help? Found a bug that you would like to work on? Great! We have written down a [doc guide](https://e-commero.gitbook.io/ecommero/) so you can start easily
